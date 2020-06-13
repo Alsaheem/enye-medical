@@ -25,7 +25,7 @@ SECRET_KEY = '792tj7r-j5zva@hm*ii*(vf9j!(%(73t25xi#(((^t)$^%avao'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://enye-medical.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['http://enye-medical.herokuapp.com','127.0.0.1']
 
 
 # Application definition
